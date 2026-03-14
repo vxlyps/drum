@@ -1,3 +1,5 @@
 {
-  "loops": ["loops/loop1.wav", "loops/loop2.wav", "loops/loop3.wav"]
+  "loop1": ["loop1.wav"],
+  "loop2": ["loop2.wav"],
+  "loop3": ["loop3.wav"]
 }
