@@ -1,4 +1,3 @@
 {
-  "sonarise_kit": ["loop1.wav"]
- 
+  "loops": ["loops/loop1.wav", "loops/loop2.wav", "loops/loop3.wav"]
 }
