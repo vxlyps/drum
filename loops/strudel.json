@@ -2,5 +2,6 @@
   "_base": "https://raw.githubusercontent.com/vxlyps/drum/main/loops/",
   "loop1": ["loop1.wav"],
   "loop2": ["loop2.wav"],
-  "loop3": ["loop3.wav"]
+  "loop3": ["loop3.wav"],
+  "hit": ["hit.wav"]
 }
